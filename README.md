@@ -1,7 +1,7 @@
 Esse projeto foi uma excelente oportunidade para entender melhor:
 
 - Como funciona o ciclo de vida de componentes em React.
-- A importância da imutabilidade no `state`.
+- A importância da imutabilidade no 'state'.
 - Como organizar melhor a lógica da aplicação.
 - A reutilização de componentes e criação de uma interface intuitiva.
 
