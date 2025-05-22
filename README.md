@@ -7,10 +7,8 @@ Esse projeto foi uma excelente oportunidade para entender melhor:
 
 Migrar uma ideia do Python para o React me mostrou como a lógica é realmente universal — o que muda é apenas a forma de implementá-la com as ferramentas da linguagem/framework.
 
-### 📸 Preview
-
-![Exemplo da calculadora](![image](https://github.com/user-attachments/assets/13a6579c-199a-47c9-b67a-efe1a82500ac)
-)
+### Preview
+![Exemplo da calculadora](https://github.com/user-attachments/assets/13a6579c-199a-47c9-b67a-efe1a82500ac)
 
 ---
 
