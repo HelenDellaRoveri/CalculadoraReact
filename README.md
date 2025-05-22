@@ -9,8 +9,9 @@ Migrar uma ideia do Python para o React me mostrou como a lógica é realmente u
 
 ### 📸 Preview
 
-![Calculator Screenshot](![image](https://github.com/user-attachments/assets/a50d5880-2482-4646-9fb7-c6adaa4628ca)
+![Exemplo da calculadora](![image](https://github.com/user-attachments/assets/13a6579c-199a-47c9-b67a-efe1a82500ac)
 )
+
 ---
 
 ### 📄 Licença
